@@ -9,4 +9,5 @@ eureka:
     serviceUrl:
       defaultZone: http://peer1:8401/eureka/,http://peer2:8402/eureka/,http://peer3:8403/eureka/
   instance:
-    instance-id: provider1 # \u914D\u7F6E\u670D\u52A1\u540D\u79F0
+    instance-id: provider1 # \u914D\u7F6E\u670D\u52A1\u540D\u7
+from: abc 
