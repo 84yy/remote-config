@@ -11,4 +11,4 @@ eureka:
   instance:
     instance-id: client1
 
-from: sit
+from: sit-new
